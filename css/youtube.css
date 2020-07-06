@@ -1,0 +1,195 @@
+*{
+	background:#ffffff;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 1.6rem;
+	
+}
+
+.nav{
+	
+	}
+	
+.neu{
+	
+	height:137px;
+	width:1000px;
+    background:  #ffffff;
+	box-shadow: -3px -3px 5px #dde1e760, 3px 3px 15px #00000070;
+	
+	}
+
+.logo{
+	padding-left:25px;
+	padding-top:auto;
+   height:137px;
+   width:350px;
+}
+
+.search{
+
+	padding-left: 50px;
+	height:70px;
+	
+
+}
+
+.video{
+
+	padding-left:280px;
+	height:70px;
+
+}
+	
+.usericon{
+
+	padding-left:30px;
+	height:70px;
+
+}
+
+.preneu{
+
+	height:135px;
+    background:  #e8e8e8;
+	box-shadow: -3px -3px 5px #dde1e730, 3px 3px 15px #000000100;
+
+}
+
+
+.music{
+	margin-top:11px;
+	height:5vh;
+	margin-left:30px;
+	background-color: #e8e8e8;
+	}
+	
+.originals{
+margin-top:9px;
+margin-left:45px;
+height:5vh;
+background-color:#e8e8e8;
+}
+
+.card{
+	width: 38.4rem;
+}
+
+.card-text{
+	color:#ababab;
+	font-size:1rem;
+	text-align:left;
+	margin-left:140px;
+	
+	}
+	
+	.profilepic{
+		height:5vh;
+		border-radius: 50%;
+		
+		}
+		.card2{
+	width: 38.4rem;
+}
+		
+		.card-text2{
+	color:#ababab;
+	font-size:1rem;
+	text-align:left;
+	margin-left:140px;
+	}
+		.profilepic2{
+		height:5vh;
+		border-radius: 50%;
+		}
+		
+				.card3{
+	width: 38.4rem;
+}
+		
+		.card-text3{
+	color:#ababab;
+	font-size:1rem;
+	text-align:left;
+	margin-left:140px;
+	}
+		.profilepic3{
+		height:5vh;
+		border-radius: 50%;
+		}
+	
+		 .navbar { 
+	 
+	 height: 8.4vh; 
+	 background:  #ffffff;
+	box-shadow: -3px -3px 5px #dde1e760, 3px 3px 15px #000000;
+	 
+	 } 
+	 .home{
+	height: 4vh;
+	margin-left:30px;
+	margin-bottom: 40px;
+	margin-top:40px;
+	
+	
+}
+	.explore{
+	height: 4vh;
+	margin-left:120px;
+	margin-bottom: 40px;
+	margin-top:40px;
+}
+	.sub{
+	height: 4vh;
+	margin-left:150px;
+	margin-bottom: 40px;
+	margin-top:40px;
+}
+.inbox{
+	height: 4vh;
+	margin-left:120px;
+	margin-bottom: 40px;
+	margin-top:40px;
+}
+	.library{
+	height: 4vh;
+	margin-left:110px;
+	margin-bottom: 40px;
+	margin-top:40px;
+	
+}
+.home-text{
+	margin-left: 35px;
+	font-size:1rem;
+	margin-bottom: 30px;
+	padding-bottom: 7px;
+	color: #ababab;
+}
+
+.explore-text{
+	margin-left: 115px;
+	font-size:1rem;
+	margin-bottom: 30px;
+	padding-bottom: 7px;
+	color: #ababab;
+}
+.subs-text{
+	margin-left: 120px;
+	font-size:1rem;
+	margin-bottom: 30px;
+	padding-bottom: 7px;
+	color: #ababab;
+}
+.inbox-text{
+	margin-left: 125px;
+	font-size:1rem;
+	margin-bottom: 30px;
+	padding-bottom: 7px;
+	color: #ababab;
+}
+.library-text{
+	margin-left: 105px;
+	font-size:1rem;
+	margin-bottom: 30px;
+	padding-bottom: 7px;
+	color: #ababab;
+}
